@@ -9,4 +9,8 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  { 
+    "mg979/vim-visual-multi",
+    event = "VeryLazy"
+  }
 }
